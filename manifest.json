@@ -4,8 +4,8 @@
     "version": "1.0",
     "description": "The cnode extension that I made.",
     "browser_action": {
-        "default_icon": "imgs/icon.png",
-        "default_popup": "popup.html"
+        "default_icon": "src/imgs/icon.png",
+        "default_popup": "src/popup.html"
     },
     "permissions": [
         "https://cnodejs.org"
